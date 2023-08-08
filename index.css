@@ -1,0 +1,16 @@
+#carouselExampleIndicators{
+    width: 80%;
+    margin-left: 150px;
+    }
+    .parent
+    {
+        display: flex;
+        justify-content: center;
+        margin-top: 50px;
+        gap: 50px;
+    }
+    .parent img
+    {
+        height: 250px;
+    }
+    
